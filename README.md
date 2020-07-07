@@ -3,7 +3,8 @@ Projeto desenvolvido durante a Next Level Week
 Ministrado pelo Mayk Brito
 
 
-Apenas um dos meus primeiros passo como programador
+Dependencias do Nodejs: 
+express, nunjucks, sqlite
 
 
 Aplicação com Front e Backend
@@ -18,4 +19,4 @@ Para iniciar o servidor:
 node scr/server.js 
 
 
-
+Apenas um dos meus primeiros passo como programador.
